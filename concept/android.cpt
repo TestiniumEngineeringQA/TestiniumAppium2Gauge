@@ -1,9 +1,9 @@
 
 
 # Android Basic (ANDROID)
-* "2" saniye bekle
+* "10" saniye bekle
 * XPath ile elementi bul ve tıkla "//*[contains(@text, '81 ilde mağazadan ÜCRETSİZ TESLİMAT fırsatları')]"
 
 # Android Fail Basic (ANDROID)
-* "2" saniye bekle
+* "10" saniye bekle
 * XPath ile elementi bul ve tıkla "//*[contains(@text, '88 ilde mağazadan ÜCRETSİZ TESLİMAT fırsatları')]"
