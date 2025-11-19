@@ -2,7 +2,7 @@
 
 # IOS Basic (Xpath)
 * "30" saniye bekle
-* XPath ile elementi bul ve tıkla "//XCUIElementTypeButton[contains(@name, \"Markalar\")]"
+* XPath ile elementi bul ve tıkla "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther"
  XPath ile elementi bul ve tıkla "//XCUIElementTypeButton[contains(@name, \"Kampanyalar\")]"
 
 # IOS Fail Basic (Xpath)
