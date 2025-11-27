@@ -17,8 +17,3 @@
  * XPath ile elementi bul ve tıkla "//XCUIElementTypeOther[@name=\"test.authorization.submit\"]"
  * "10" saniye bekle
  * XPath ile elementi bul ve tıkla "//XCUIElementTypeOther[@name=\"test.authorization.forgotPassword\"]"
-
-  # IOS Basic (Xpath)
-  * "30" saniye bekle
-  * XPath ile elementi bul ve tıkla "//XCUIElementTypeApplication[@name=\"Gratis\"]/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther"
-   XPath ile elementi bul ve tıkla "//XCUIElementTypeButton[contains(@name, \"Kampanyalar\")]"
