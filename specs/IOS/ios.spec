@@ -12,6 +12,16 @@ IOSFailBasicTest
 tags:Ios Fail Basic Test
 * IOS Fail Basic (Xpath)
 
+IOSBasicTestAvitaZero
+-----
+tags:Ios Basic Test Avita Zero
+* IOS Basic Avita Zero(Xpath)
+
+IOSBasicTestAvitaOne
+-----
+tags:Ios Basic Test Avita One
+* IOS Basic Avita One(Xpath)
+
 IOSBasicTestAvita
 -----
 tags:Ios Basic Test Avita

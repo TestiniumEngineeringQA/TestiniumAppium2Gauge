@@ -10,10 +10,17 @@
 * XPath ile elementi bul ve tıkla "//XCUIElementTypeButton[contains(@name, \"Markalarsss\")]"
  XPath ile elementi bul ve tıkla "//XCUIElementTypeButton[contains(@name, \"Kampanyalarsss\")]"
 
- # IOS Basic Avita (Xpath)
- * "30" saniye bekle
- * XPath ile elementi bul ve tıkla "//XCUIElementTypeOther[@name=\"test.tutorial.skip\"]"
- * "10" saniye bekle
- * XPath ile elementi bul ve tıkla "//XCUIElementTypeOther[@name=\"test.authorization.submit\"]"
- * "10" saniye bekle
- * XPath ile elementi bul ve tıkla "//XCUIElementTypeOther[@name=\"test.authorization.forgotPassword\"]"
+# IOS Basic Avita Zero(Xpath)
+* "30" saniye bekle
+
+# IOS Basic Avita One(Xpath)
+* "30" saniye bekle
+* XPath ile elementi bul ve tıkla "//XCUIElementTypeOther[@name=\"test.tutorial.skip\"]"
+
+# IOS Basic Avita (Xpath)
+* "30" saniye bekle
+* XPath ile elementi bul ve tıkla "//XCUIElementTypeOther[@name=\"test.tutorial.skip\"]"
+* "10" saniye bekle
+* XPath ile elementi bul ve tıkla "//XCUIElementTypeOther[@name=\"test.authorization.submit\"]"
+* "10" saniye bekle
+* XPath ile elementi bul ve tıkla "//XCUIElementTypeOther[@name=\"test.authorization.forgotPassword\"]"

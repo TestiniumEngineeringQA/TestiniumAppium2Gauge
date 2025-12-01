@@ -1,9 +1,24 @@
 
-
 # Android Basic (ANDROID)
-* "10" saniye bekle
+* "30" saniye bekle
 * XPath ile elementi bul ve tıkla "//*[contains(@text, '81 ilde mağazadan ÜCRETSİZ TESLİMAT fırsatları')]"
 
 # Android Fail Basic (ANDROID)
-* "10" saniye bekle
+* "30" saniye bekle
 * XPath ile elementi bul ve tıkla "//*[contains(@text, '88 ilde mağazadan ÜCRETSİZ TESLİMAT fırsatları')]"
+
+
+# Android Basic Gratis Zero (Xpath)
+* "30" saniye bekle
+
+# Android Basic Gratis One (Xpath)
+* "30" saniye bekle
+* XPath ile elementi bul ve tıkla "//*[contains(@text, '81 ilde mağazadan ÜCRETSİZ TESLİMAT fırsatları')]"
+
+# Android Basic Gratis (Xpath)
+* "30" saniye bekle
+* XPath ile elementi bul ve tıkla "//*[contains(@text, 'Anasayfa')]"
+* "10" saniye bekle
+* XPath ile elementi bul ve tıkla "//*[contains(@text, 'Kategoriler')]"
+* "10" saniye bekle
+* XPath ile elementi bul ve tıkla "//*[contains(@text, 'Markalar')]"
